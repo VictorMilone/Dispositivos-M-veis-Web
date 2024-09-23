@@ -35,4 +35,4 @@ Nesse sentido, visando esse público que se preocupa com o bem-estar, o desenvol
 
 ## Protótipo 
 
-![image]([https://github.com/VictorMilone/Projeto-integrador-SENAC/assets/124219983/62703bc6-8d43-4921-aa33-9d46aed614f1](https://github.com/VictorMilone/Dispositivos-Moveis-Web/blob/main/Prot%C3%B3tipo.png)
+![image](https://github.com/VictorMilone/Dispositivos-Moveis-Web/blob/main/Personas.png)
