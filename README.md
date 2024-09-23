@@ -25,9 +25,13 @@ O objetivo do trabalho é desenvolver um aplicativo de saúde e fitness que auxi
 ## Objetivos
 
 •	Facilitar o monitoramento de atividades físicas: Permitir que os usuários acompanhem facilmente a frequência e a duração, proporcionando uma visão clara de seu progresso.
+
 •	Atender diferentes perfis de usuários: Incluir uma variedade de modalidades, como musculação, caminhada, natação, ciclismo e corrida, permitindo que o aplicativo seja útil para pessoas com diferentes preferências e níveis de aptidão.
+
 •	Promover uma experiência personalizada: Adaptar as funcionalidades do aplicativo para que os usuários possam ajustar seus objetivos e receber recomendações personalizadas com base em suas atividades e progresso.
+
 •	Integrar dispositivos e aplicativos de saúde: Permitir a integração com dispositivos vestíveis, como smartwatches, e aplicativos de saúde para sincronizar dados e oferecer uma visão mais completa da saúde e bem-estar do usuário.
+
 •	Acompanhar a evolução física ao longo do tempo: Implementar uma funcionalidade de registro de medidas corporais e desempenho, permitindo que o usuário visualize sua evolução física de forma mais tangível e motivadora.
 
 
