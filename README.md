@@ -8,7 +8,7 @@ Repositório é destinado ao Projeto Integrador III do SENAC e o grupo contém 6
  * Romualdo Souza De Souza
  * Victor Hugo Milone
 
-   ## Introdução
+## Introdução
    
 O objetivo do trabalho é desenvolver um aplicativo de saúde e fitness que auxilie os usuários a monitorar e acompanhar suas atividades físicas de maneira simples e acessível, promovendo um estilo de vida ativo e saudável. A metodologia utilizada inclui a integração de diferentes modalidades de exercício e a personalização da experiência do usuário, adaptando-se às suas preferências e necessidades específicas. Os resultados alcançados demonstram que a plataforma pode facilitar o registro e monitoramento das atividades físicas, contribuindo para o aumento da motivação e comprometimento com a prática regular de exercícios. Conclui-se que a combinação entre tecnologia e saúde oferece uma solução eficaz para superar barreiras enfrentadas por muitas pessoas que precisam de ajuda para manter hábitos mais saudáveis em suas rotinas diárias.
 
