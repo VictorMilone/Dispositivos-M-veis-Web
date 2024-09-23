@@ -8,6 +8,16 @@ Repositório é destinado ao Projeto Integrador III do SENAC e o grupo contém 6
  * Romualdo Souza De Souza
  * Victor Hugo Milone
 
+## Divisão de Tarefas
+
+Fernando Fraguas Carneiro foi o responsável principal pelo desenvolvimento do protótipo do aplicativo, garantindo que a interface e a experiência do usuário fossem claras e intuitivas. Fernando liderou essa etapa com o apoio dos demais integrantes, que forneceram feedback constante para aprimorar o protótipo.
+
+Kevin De Jesus Souza focou na elaboração das personas, criando perfis que representassem de maneira precisa o público-alvo do aplicativo. Sua tarefa foi essencial para orientar o desenvolvimento das funcionalidades, visando atender às necessidades dos usuários identificados.
+
+Jessica Silva Azevedo, Rafael De Morais Lopes, Romualdo Souza De Souza e Victor Hugo Milone concentraram seus esforços no desenvolvimento geral do aplicativo, desde a definição das funcionalidades principais até a futura implementação do código. Juntos, eles garantiram a integração de todas as partes do projeto, coordenando o desenvolvimento de forma eficiente e alinhada aos objetivos propostos.
+
+Victor Hugo Milone foi o responsável pela organização do Projeto no GitHub, criando um repositório que facilitou o controle de versão e a colaboração entre os membros. Além disso, Victor preparou a documentação do projeto no formato Markdown, tornando-a acessível e organizada para futuras consultas e melhorias.
+
 ## Introdução
    
 O objetivo do trabalho é desenvolver um aplicativo de saúde e fitness que auxilie os usuários a monitorar e acompanhar suas atividades físicas de maneira simples e acessível, promovendo um estilo de vida ativo e saudável. A metodologia utilizada inclui a integração de diferentes modalidades de exercício e a personalização da experiência do usuário, adaptando-se às suas preferências e necessidades específicas. Os resultados alcançados demonstram que a plataforma pode facilitar o registro e monitoramento das atividades físicas, contribuindo para o aumento da motivação e comprometimento com a prática regular de exercícios. Conclui-se que a combinação entre tecnologia e saúde oferece uma solução eficaz para superar barreiras enfrentadas por muitas pessoas que precisam de ajuda para manter hábitos mais saudáveis em suas rotinas diárias.
