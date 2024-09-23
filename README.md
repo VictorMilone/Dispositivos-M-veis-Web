@@ -45,8 +45,8 @@ Nesse sentido, visando esse público que se preocupa com o bem-estar, o desenvol
 
 ## Discrição de Personas
 
-![image](https://github.com/VictorMilone/Dispositivos-Moveis-Web/blob/main/Prot%C3%B3tipo.png)
+![image](https://github.com/VictorMilone/Dispositivos-Moveis-Web/blob/main/Personas.png)
 
 ## Protótipo 
 
-![image](https://github.com/VictorMilone/Dispositivos-Moveis-Web/blob/main/Personas.png)
+![image](https://github.com/VictorMilone/Dispositivos-Moveis-Web/blob/main/Prot%C3%B3tipo.png)
